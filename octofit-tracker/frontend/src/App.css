@@ -1,0 +1,33 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.app-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.table-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-muted {
+  font-size: 0.875rem;
+  padding: 1rem 0;
+}
+
+.add-btn {
+  white-space: nowrap;
+}
+
+/* Utility spacing overrides */
+.mb-gap { margin-bottom: 1.25rem; }
