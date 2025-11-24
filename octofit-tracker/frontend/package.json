@@ -1,0 +1,17 @@
+{
+  "name": "octofit-tracker-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "OctoFit Tracker React frontend",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.2"
+  },
+  "scripts": {
+    "start": "echo 'Dev server not configured yet'",
+    "build": "echo 'Build step not configured yet'"
+  }
+}
